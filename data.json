@@ -1,0 +1,95 @@
+{
+  "main": {
+    "name":"Riya Reddy",
+    "occupation":"Full Stack Developer",
+    "description":"Mission-driven full stack developer with a passion to learn new technologies, collaboration, and teaching.",
+    "image":"Profile.jpg",
+    "bio":"I am a Software Developer with demonstrable experience working with SAP , Microsoft and web technologies across the full stack from the User Interface to the database,I am a strong communicator and enjoy working with stakeholders across the software development lifecycle.",
+    "contactmessage":"Contact Me",
+    "email": "riya@mecoder.net",
+    "phone": "(+61) 450-572-148",
+    "skype": "supriya.reddy03",
+    "address":{
+      "street":"84 Vaucluse Blvd",
+      "city":"Point Cook",
+      "state":"VIC",
+      "zip": "3030"
+    },
+    "resumedownload":"https://docs.google.com/document/d/1HzfGbXlH8W61LJ4stVWdAOubyFUrpT4Y7U55Xu8sFbM/edit?usp=sharing",
+     "aboutname":"I am Supriya Reddy,You can call me as Riya.Basically I come from India and based in Melbourne,I can speak four diffferent languages like English,Hindi,Kannada and Telugu.",
+    "aboutbio":"I have over 6 years of experience as a software engineer,and have worked at both small startups and large organisation.While I'm a proficient full-stack developer,I love building sites,apps and software all the way from the prototype and planning to the fully live product which can help client's to achieve their buisness outcomes.",
+    "aboutfocus":"I'm constantly learning web technologies, currently playing around with Advanced Javascript and React.",
+    "aboutrole":"I'm currently working as Full Stack Developer and is always interested in challenge as I love being curious.",
+    "aboutinterest":"Outside of work,I like to be part of social gatherings,travelling,volunteering and attending meet up of my interest.",
+    "social":[
+      {
+        "name":"email",
+        "url":"mailto:riya@mecoder.net",
+        "className":"fa fa-envelope-square"
+      },
+      {
+        "name":"linkedin",
+        "url":"https://www.linkedin.com/in/riyareddy",
+        "className":"fa fa-linkedin-square"
+      },
+      {
+        "name":"github",
+        "url":"http://github.com/riyareddy",
+        "className":"fa fa-github-square"
+      }
+    ]
+  },
+  "resume":{
+      "skillmessage":"I am a Software Developer with demonstrable experience working with SAP , Microsoft and web technologies across the full stack from the User Interface to the database,I am a strong communicator and enjoy working with stakeholders across the software development lifecycle.",
+      "education":[
+        {
+          "school":"Sambhram Institute of Technology",
+          "degree":"Bachelor of Engineering in Information Science",
+          "graduated":"2007 - 2011",
+          "description":"Aggregate : 74%(Distinction)"
+        }
+      ],
+      "work":[
+      {
+        "company":"MVP Studio(AU)",
+       "title":"Full Stack Developer ",
+       "years":"Sep 2017 - Present",
+       "description":"I am currently working as a full-stack web developer for the Keys project (propert.community), a cloud-based property management platform.This innovative web app serves the need of property owners, tenants,service providers and investors.",
+       "tools":"Technologies:C#,MVC,LINQ,HTML5,Bootstrap,jQuery,Knockout.js."
+     },
+     {
+        "company":"Ciber India(IN)",
+        "title":"SAP ABAP Developer",
+        "years":"Sep 2011 - Mar 2017",
+        "description":"I was working as SAP ABAP Developer to customise SAP software as per client's Buisness requirements using ABAP(Advanced Buisness Application Programming).",
+        "tools":"Tools:SAP ECC6,SAP MII Workbench."
+      }
+            ],
+      "skills":[
+     {
+       "name":"HTML5",
+       "level":90
+     },
+     {
+       "name":"CSS",
+       "level":75
+     },
+     {
+       "name":"JavaScript",
+       "level":90
+     },
+     {
+       "name":"ReactJs",
+       "level":50
+     },
+     {
+       "name":"NodeJs",
+       "level":50
+     },
+     {
+       "name":"C#",
+       "level":80
+     }
+   ]
+  }
+}
